@@ -21,3 +21,27 @@ So javascript and EcmaScript are used interchangeably.
 1. Execute in the browser.
 2. Using runtime environment by using node.js (outside the browser)
 3. Inside the Html file using script tag.
+
+## Vid 1: 12/12/2022
+
+**Today's Progress**:
+
+- What are variables?
+  <br>Variables is just a container that store the referrence of a value, means the value stored in memory and the address will store in that variable container.
+
+  The value of the variable can be changed during the runtime its called dynamically typed language and other is statically typed language once the variable initialized it cant be changed.
+
+  ```
+  let a = 7;
+  ----------
+  7 is a literal
+  a is a identifier
+  = is a assignment operator
+  combining its called decalring variable.
+  ```
+
+- Ruled for choosing variable names:<br>
+  - letters, digits, underscores and $dollar sign allowed
+  - must begin with a $, \_ or a letter
+  - javascript reserved words cannot be use an variable name
+  - variable names are case sensitive.
