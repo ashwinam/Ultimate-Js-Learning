@@ -45,3 +45,18 @@ So javascript and EcmaScript are used interchangeably.
   - must begin with a $, \_ or a letter
   - javascript reserved words cannot be use an variable name
   - variable names are case sensitive.
+
+## Vid 2: 14/12/2022
+
+**Today's Progress**:
+
+let, var & const
+
+**Points:**<br>
+
+1. var is used in pre ES6(Ecmascript 6)
+2. var is globally scoped while let and const are blocked declared
+3. let can be updated but can not be redeclared
+4. const can neither be updated nor redeclared
+5. var variables are initialized with undefined whereas let and const variable are not initialized
+6. const must be initialized during declaration unlike var and let.
