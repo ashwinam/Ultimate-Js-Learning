@@ -60,3 +60,49 @@ let, var & const
 4. const can neither be updated nor redeclared
 5. var variables are initialized with undefined whereas let and const variable are not initialized
 6. const must be initialized during declaration unlike var and let.
+
+## Vid 3: 15/12/2022
+
+**Today's Progress**:
+Primitive data types and non primitive data types
+
+what are data types?
+the value that hold by a variable to in human way what we call that value type are called data types
+
+like bottle hold water, so water is a data type
+
+- what is primitive data types?
+  <br>the data type that are built in javascript, is called primitive data types
+
+- **Types of primitive data types:**
+
+1. Null
+2. Number
+3. Symbol
+4. String
+5. Boolean
+6. BigInt
+7. Underfined
+
+- Non primitive data type are a object, what is object? object is a container that holds a data in a key value pair.
+
+```
+let a = null;
+let b = 345;
+let c = 'ashwin';
+let d = Symbol('Hi i am a symbol');
+let e = true;
+let f = BigInt('985');
+let g = underfined;
+
+console.log(a, b, c, d, f, g)
+console.log(typeof f) //typeof helps to find out which type of data type are holding by f vriable.
+
+const item = {
+    'name':'ashwin',
+    'salary':12000,
+    'is_employed':true,
+}
+
+console.log(item['name']);
+```
