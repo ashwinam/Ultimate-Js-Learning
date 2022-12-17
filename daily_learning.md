@@ -111,3 +111,95 @@ console.log(item['name']);
 
 **Today's Progress**:
 Practice set of chapter 1
+
+## Vid 5: 17/12/2022
+
+**Today's Progress**:
+
+### Operators and expressions
+
+A fragment of code that produces a value is called an expressions.
+Every value that is written on js is an expression.
+
+For ex 77 and 'ashwin' --> it did not throw an any error
+
+Operators are just a symbols that helps to perform operations on values, variables and data types.
+
+7 + 5 = 12
+(7 and 5 are operand, + and = sign are the operator and 12 is the output)
+
+Every operator are generate somekind of result.
+
+**Types of Operators**
+
+1. Aruthmetic operators<br>
+   This operators are helps to perform mathematical operations
+
+```
++  Addition
+- subtraction
+* multiplication
+/ division (return quotient)
+% modulas (return remainder)
+** exponential (a ^ b)
+++ increamental
+-- decreamental
+```
+
+2. Assignment operator<br>
+   Helps to store values in a variable
+   like right hand side value in a left hand side variable.
+
+```
+=  (x = 20)
+below assignment operators are called augmented assignment operators
++=  x = x + 5
+-=  x = x - 5
+/=  x = x / 5
+*=  x = x * 5
+%=  x = x % 5
+**=  x = x ** 5
+```
+
+3. Comparision operators<br>
+   This operators helps to compare two values and it returns the boolean type data type (true or false)
+
+```
+== equal to (only checks by comparing values)
+!= not equal value
+=== checks value and also type
+!== not equal value or not equal type
+> greater than
+< less than
+>= greater than or equal to
+<= less than or equal to
+? ternary operator
+```
+
+4. logical operators<br>
+   this operators works on two or more comparision operators, true and true or false or true
+
+```
+&& and
+|| or
+!  not
+```
+
+5. type
+
+```
+typeof <value>
+```
+
+6. bitwise<br>
+   this operators perform bit by bit operations on numbers.
+
+**Comments in js**
+
+sometimes we want a text that dont want to be executed, in code we call a comments
+
+```
+// single line comments
+
+/* multiline comment */
+```
