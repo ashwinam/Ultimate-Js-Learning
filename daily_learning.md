@@ -106,3 +106,8 @@ const item = {
 
 console.log(item['name']);
 ```
+
+## Vid 4: 17/12/2022
+
+**Today's Progress**:
+Practice set of chapter 1
