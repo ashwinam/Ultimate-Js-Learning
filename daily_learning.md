@@ -203,3 +203,81 @@ sometimes we want a text that dont want to be executed, in code we call a commen
 
 /* multiline comment */
 ```
+
+## Vid 6: 18/12/2022
+
+**Today's Progress**:
+
+Conditional Expressions
+
+So Conditional expressions are used to anticipate the conditions, or create a flow of a program.
+
+like
+
+```
+if (something happens) {
+   //do something
+} else {
+   // do other thing
+}
+```
+
+So there are several types of conditional expressions in javascript<br>
+
+**Types of conditional expression**
+
+1. if statement
+2. if...else statement
+3. if ...else if...else statement
+
+### if statement
+
+if there is only single condition to check based on true there used an if statement.
+
+syntax:
+
+```
+if (condition){
+   // execute this code
+}
+```
+
+### if...else statement
+
+if you want to check more than condition then use if else statement.
+
+syntax:
+
+```
+if (condition){
+   // execute this code
+} else {
+   //execute this code
+}
+```
+
+### if...else if statement
+
+if there is multiple conditions to check then use if...else if statement
+
+syntax:
+
+```
+if (age>70){
+   console.log('a valid age')
+} else if (age > 10 && age < 15){
+   console.log('but you are a kid can't drive'.)
+} else if (age > 18){
+   console.log('not a kid')
+}else {
+   console.log('Invalid age.')
+}
+```
+
+**Ternary Operator**
+
+single line if else statement that evealuates block of code
+
+let condition = (age > 18) ?'drive':'not drive')
+
+console.log('You can', condition)
