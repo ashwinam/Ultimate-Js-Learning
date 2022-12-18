@@ -281,3 +281,9 @@ single line if else statement that evealuates block of code
 let condition = (age > 18) ?'drive':'not drive')
 
 console.log('You can', condition)
+
+## Vid 7: 18/12/2022
+
+**Today's Progress**:
+
+Chapter 2: Question set
