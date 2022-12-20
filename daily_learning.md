@@ -287,3 +287,52 @@ console.log('You can', condition)
 **Today's Progress**:
 
 Chapter 2: Question set
+
+## Vid 8: 20/12/2022
+
+**Today's Progress**:
+
+For loops in javascript
+
+Loops are just the programming power that helps to do the things in a repetative manner until the condition is false.
+
+### Types of loops in javascript
+
+1. for loop --> loop a block of code number of times.
+2. for in loop --> loops through the keys of an object
+3. for of loop --> loops through the values through an object
+4. while loop --> loops a block based on a specific condition
+5. Do while loop --> while variant which runs atlease once
+
+The for loop:<br>
+**Syntax**
+
+```
+for (statement 1; statement2; statement3){
+   // code to be executed
+}
+```
+
+- statement one executed one time
+- statement 2 is the condition based on which the loops runs(loop body is executed)
+- statement 3 is executed everytime the loop body executed.
+
+The for in loop:<br>
+Syntax:
+
+```
+for(key in object){
+   // do with keys
+}
+```
+
+The for of loop:<br>
+Syntax:
+
+```
+for(variable of iterable){
+   //do something with iterable
+}
+```
+
+// Disclaimer: var is a global scoped and let is a blocked scope, if you use 'let' in for loop and if you try to access outside the for loop it throws an exception but oppsite is with var
