@@ -336,3 +336,30 @@ for(variable of iterable){
 ```
 
 // Disclaimer: var is a global scoped and let is a blocked scope, if you use 'let' in for loop and if you try to access outside the for loop it throws an exception but oppsite is with var
+
+## Vid 9: 21/12/2022
+
+**Today's Progress**:
+
+While loops
+
+It a loop that check the condition first then execute it.
+Note: if the condition never false then loop goes into infinite
+Syntax:
+
+```
+while(condition){
+   //code to be executed
+}
+```
+
+Do while loop
+In this loop the loop executed once and then it checks condition.
+
+syntax:
+
+```
+do{
+   //code to be executed
+}while(condition)
+```
