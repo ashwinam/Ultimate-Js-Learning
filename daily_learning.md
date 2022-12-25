@@ -363,3 +363,53 @@ do{
    //code to be executed
 }while(condition)
 ```
+
+## Vid 10: 25/12/2022
+
+**Today's Progress**:
+
+Functions in javascript
+
+What are the functions?
+Functions are just a block of code that helps to avoid rewrite the logic again and again, just write it once and call the logic whenever you want.
+
+Syntax:
+
+```
+function <function_name>(parameter:optional){
+   //your logic
+}
+```
+
+Ex.
+
+```
+function hello(){
+   console.log('Hello world');
+}
+
+// with parameter
+function greet(name){
+   console.log('Hello', name);
+   //here name work like a local variable
+}
+```
+
+after creating it must be invoke
+
+```
+greet('ashwin');
+```
+
+Arrow functions in javascript
+
+```
+const sum = (a, b) => {
+    return a + b
+}
+
+let a = 20;
+let b = 50;
+
+console.log(sum(a + b))
+```
