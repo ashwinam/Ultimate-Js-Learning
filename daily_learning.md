@@ -413,3 +413,9 @@ let b = 50;
 
 console.log(sum(a + b))
 ```
+
+## Vid 11: 26/12/2022
+
+**Today's Progress**:
+
+Chapter 3: practice set
