@@ -419,3 +419,58 @@ console.log(sum(a + b))
 **Today's Progress**:
 
 Chapter 3: practice set
+
+## Vid 12: 27/12/2022
+
+**Today's Progress**:
+
+Introduction to strings
+
+String are the collection of characters
+In simple words string are the data types in javascripts that gives the power to manipulate the text in javascript.
+
+Syntax:
+
+```
+let name = "ashwin";
+
+console.log(name.length) // name.length helps to print the character length
+```
+
+- you can use single and double quote to create a string.
+
+```
+name = 'yuvraj'
+```
+
+**Template literals**
+
+template literals means write a string using backticks (\`\`)
+
+- main reason is you can write a string in a both ways.
+  ex
+
+```
+let sentence = `the name"s is ashwin`
+```
+
+- we can directly insert a variable inside template literal, this is called string interpolation.
+
+```
+let name1 = 'ashwin'
+let name2 = 'rohan'
+
+let sentence = `${name1} and ${name2} both are colleauges.`
+
+output:
+Ashwin and rohan both are colleagues.
+```
+
+_Escape sequence characters_
+
+The following are the escape sequence characters:
+
+1. \n "new line"
+2. \t "for a four space or a single tab"
+3. \r "for carriage return"
+4. \ "for telling interpreter to avoid after this slash"
