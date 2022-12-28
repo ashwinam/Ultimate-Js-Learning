@@ -474,3 +474,8 @@ The following are the escape sequence characters:
 2. \t "for a four space or a single tab"
 3. \r "for carriage return"
 4. \ "for telling interpreter to avoid after this slash"
+
+## Vid 13: 28/12/2022
+
+**Today's Progress**:
+String methods in javascript
