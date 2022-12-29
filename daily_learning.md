@@ -479,3 +479,9 @@ The following are the escape sequence characters:
 
 **Today's Progress**:
 String methods in javascript
+
+## Vid 14: 29/12/2022
+
+**Today's Progress**:
+
+Chapter 4 practice set
