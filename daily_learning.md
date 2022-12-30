@@ -485,3 +485,13 @@ String methods in javascript
 **Today's Progress**:
 
 Chapter 4 practice set
+
+## Vid 15: 30/12/2022
+
+**Today's Progress**:
+Arrays in the javascript
+
+Collection of more than a one objects that holds by a single variable.
+
+ex.
+let a = [1 , false, 'name', {age: 28}]
