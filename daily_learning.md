@@ -501,3 +501,9 @@ let a = [1 , false, 'name', {age: 28}]
 **Today's Progress**:
 
 Arrays methods in js
+
+## Vid 17: 31/12/2022
+
+**Today's Progress**:
+
+Arrays methods part-2 in js
