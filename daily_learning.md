@@ -513,3 +513,9 @@ Arrays methods part-2 in js
 **Today's Progress**:
 
 for loops with arrays
+
+## Vid 19: 31/12/2022
+
+**Today's Progress**:
+
+Map, filter, reduce in js

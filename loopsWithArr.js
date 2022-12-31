@@ -5,7 +5,7 @@ for(let i=0; i<num.length; i++){
     console.log(num[i]);
 }
 
-// forEach --> calls a function, once for each array element
+// forEach --> calls a function, once for each array element, it has three params item, indexes, arrays
 
 num.forEach((a) => {
     console.log(a * a); // here each item in array i do the square
