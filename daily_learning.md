@@ -495,3 +495,9 @@ Collection of more than a one objects that holds by a single variable.
 
 ex.
 let a = [1 , false, 'name', {age: 28}]
+
+## Vid 16: 31/12/2022
+
+**Today's Progress**:
+
+Arrays methods in js
