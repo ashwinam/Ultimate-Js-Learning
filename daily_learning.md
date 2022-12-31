@@ -507,3 +507,9 @@ Arrays methods in js
 **Today's Progress**:
 
 Arrays methods part-2 in js
+
+## Vid 18: 31/12/2022
+
+**Today's Progress**:
+
+for loops with arrays
