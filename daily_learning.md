@@ -519,3 +519,9 @@ for loops with arrays
 **Today's Progress**:
 
 Map, filter, reduce in js
+
+## Vid 20: 01/01/2023
+
+**Today's Progress**:
+
+Chapter 5 practice set
