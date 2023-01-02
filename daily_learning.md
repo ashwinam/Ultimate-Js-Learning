@@ -525,3 +525,9 @@ Map, filter, reduce in js
 **Today's Progress**:
 
 Chapter 5 practice set
+
+## Vid 21: 02/01/2023
+
+**Today's Progress**:
+
+Exercise 1: Guess the Number
