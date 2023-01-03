@@ -531,3 +531,22 @@ Chapter 5 practice set
 **Today's Progress**:
 
 Exercise 1: Guess the Number
+
+## Vid 22: 03/01/2023
+
+**Today's Progress**:
+Javascript in the browser
+
+Initially Javascript is build for make web pages interactive, and javascript is run in the browser by the help of embeded engine and thats called javascript engine or the javascript runtime.
+
+Javascript ability in the browser is very limited to protect the users safety i.e., browser js is not able to access the users computer or file system.
+
+_Developer Tools_
+Every browser has some developer tools, as the name says its very useful for developers.
+
+F12 on browser --> it opens dev tools
+
+1. Elements tab --> shows the html tags
+2. console tab --> shows the warning, errors and log details
+3. network tab --> shows the requests
+4. etc.
