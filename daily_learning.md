@@ -541,7 +541,7 @@ Initially Javascript is build for make web pages interactive, and javascript is 
 
 Javascript ability in the browser is very limited to protect the users safety i.e., browser js is not able to access the users computer or file system.
 
-_Developer Tools_
+_Developer Tools_<br>
 Every browser has some developer tools, as the name says its very useful for developers.
 
 F12 on browser --> it opens dev tools
@@ -550,3 +550,30 @@ F12 on browser --> it opens dev tools
 2. console tab --> shows the warning, errors and log details
 3. network tab --> shows the requests
 4. etc.
+
+## Vid 23: 04/01/2023
+
+**Today's Progress**:
+
+script tag
+
+using src js file is going to browser caching. 2. seperation of concerns
+
+The script tag is used to insert js into an html page.
+
+Ths script tag is used to insert an internal and external scripts.
+
+- The benefits of using external js file:
+
+1. the browser downloaded it and store it in a browser memory as a cache.
+
+```
+<script>
+   alert('Hello')
+</script>
+<script src="script.js">
+   // here js script not working its ignoring...
+</script>
+or...
+
+```
