@@ -577,3 +577,25 @@ Ths script tag is used to insert an internal and external scripts.
 or...
 
 ```
+
+## Vid 24: 05/01/2023
+
+**Today's Progress**:
+
+Console objects
+
+the console objects have several methods
+log being one of them, some of them are as follows:
+
+assert() --> used to assert a condition
+clear() --> clear the console
+log()---> output a message to the console
+table() --> display a tabular data
+warn() --> used for warnings
+error() --> used for errors
+info() -> used for specific information
+
+```
+simplest way to get all this:
+console.log(console);
+```
