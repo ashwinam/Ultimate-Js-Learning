@@ -599,3 +599,25 @@ info() -> used for specific information
 simplest way to get all this:
 console.log(console);
 ```
+
+## Vid 25: 06/01/2023
+
+**Today's Progress**:
+
+Interaction: alert, prompt and confirm
+
+alert: 'used to invoke a mini window with a msg.'
+
+```
+alert('Hello');
+```
+
+prompt: 'used to take user input as string'
+
+```
+prompt('Hi', 'No'); --> optional default value
+```
+
+confirm: 'shows a message and waits for the user to press or cancel. returns true for or and false for cancel.'
+
+the exact location & look is determined by the browser which is a limitation.
