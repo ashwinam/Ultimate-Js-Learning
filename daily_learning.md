@@ -621,3 +621,45 @@ prompt('Hi', 'No'); --> optional default value
 confirm: 'shows a message and waits for the user to press or cancel. returns true for or and false for cancel.'
 
 the exact location & look is determined by the browser which is a limitation.
+
+Main drawback is they stop main thread of execution.
+
+## Vid 25: 07/01/2023
+
+**Today's Progress**:
+
+DOM, BOM, Window object
+
+We have the following when javascript runs in a browser.
+
+```
+         Window
+            |
+      ----------------
+      |     |        |
+      DOM   BOM   Javascript core
+```
+
+_Window Object_<br>
+So window object is the global object
+window object represent the browser window and provides methods to control it. It is a global object.
+
+_Document Object Model_<br>
+dom represents the page content as html.
+you can access each element, style using dom, you can manipulate it also.
+
+```
+document.body --> page body as a js object
+ex
+
+document.body.style.background = "yellow"
+```
+
+_Browser Object Model_<br>
+The browser object model respresents additional object provided by the browser (host environment) for working with everything except the document.
+
+The function (alert, prompt, confirm) are also the part of bom
+
+```
+location.href = "https://google.com"
+```
