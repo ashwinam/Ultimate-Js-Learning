@@ -669,3 +669,9 @@ location.href = "https://google.com"
 **Today's Progress**:
 
 Chapter 6: Practice set
+
+## Vid 28: 08/01/2023
+
+**Today's Progress**:
+
+Exercise 02: solving
