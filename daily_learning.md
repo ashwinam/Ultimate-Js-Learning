@@ -600,7 +600,7 @@ simplest way to get all this:
 console.log(console);
 ```
 
-## Vid 25: 06/01/2023
+## Vid 26: 06/01/2023
 
 **Today's Progress**:
 
@@ -624,7 +624,7 @@ the exact location & look is determined by the browser which is a limitation.
 
 Main drawback is they stop main thread of execution.
 
-## Vid 25: 07/01/2023
+## Vid 27: 07/01/2023
 
 **Today's Progress**:
 
@@ -664,7 +664,7 @@ The function (alert, prompt, confirm) are also the part of bom
 location.href = "https://google.com"
 ```
 
-## Vid 26: 08/01/2023
+## Vid 28: 08/01/2023
 
 **Today's Progress**:
 
