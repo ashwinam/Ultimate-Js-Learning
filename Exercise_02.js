@@ -18,9 +18,14 @@ alert('WELCOME TO THE SNAKE, WATER AND GUN GAME. ');
 
 //ask user input from choices
 
-let uInput = prompt('Give your choice between this 3 options(S, G and W): ')
+let uInput;
 
-let compInput = Number.parseInt(Math.random() * 3)+1
+let compInput;
+do {
+
+uInput = prompt('Give your choice between this 3 options(S, G and W): ')
+
+compInput = Number.parseInt(Math.random() * 3)+1
 
 if(compInput === 1){
     compInput = 's';
@@ -29,6 +34,7 @@ if(compInput === 1){
 }else{
     compInput = 'w';
 }
+
 
 if (uInput === 's' && compInput === 'w'){
     console.log(uInput, '<-->', compInput);
@@ -52,3 +58,4 @@ if (uInput === 's' && compInput === 'w'){
     console.log(uInput, '<-->', compInput);
     alert('Draw...')
 }
+}while(uInput === compInput);
