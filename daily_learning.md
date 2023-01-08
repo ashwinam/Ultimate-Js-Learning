@@ -663,3 +663,9 @@ The function (alert, prompt, confirm) are also the part of bom
 ```
 location.href = "https://google.com"
 ```
+
+## Vid 26: 08/01/2023
+
+**Today's Progress**:
+
+Chapter 6: Practice set
