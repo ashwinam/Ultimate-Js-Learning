@@ -35,7 +35,6 @@ if(compInput === 1){
     compInput = 'w';
 }
 
-
 if (uInput === 's' && compInput === 'w'){
     console.log(uInput, '<-->', compInput);
     alert(`Snake wins, user wins.`)
