@@ -739,3 +739,45 @@ This are the element nodes
 But if we do document.title --> it return String and its a text node.
 
 Note: document body sometimes null if the javascript written before the body tag
+
+## Vid 31: 10/01/2023
+
+**Today's Progress**:
+
+Accessing the children
+
+Children of an element
+
+Direct as well as deeply nested elements of an element are called its its children
+
+```
+<body>
+   <div>
+   div tag is child of body
+      <p>This is child of div tag</p>
+   </div>
+</body>
+```
+
+child nodes --> ELement that are direct children
+For example head & body are direct children of html
+
+Descendent nodes --> All nested elements, children, their children and so on...
+
+_first child, last child & childNodes_<br>
+element.firstChild-->first child nodes
+element.lastChild--> last child nodes
+element.childNodes--> all child nodes
+
+Following is always true
+
+elem.childNodes === elem.firstChild
+elem.childNodes[elem.childNodes.length - 1] === elem.lastChild
+
+There is also a method called hasChildNodes() to check if there is any childNodes or not.
+
+Notes: Child nodes are not an array its a nodelist, to make it a array use following method
+
+```
+Array.from(childNodes);
+```
