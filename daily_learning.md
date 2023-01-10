@@ -670,8 +670,72 @@ location.href = "https://google.com"
 
 Chapter 6: Practice set
 
-## Vid 28: 08/01/2023
+## Vid 29: 08/01/2023
 
 **Today's Progress**:
 
 Exercise 02: solving
+
+## Vid 30: 10/01/2023
+
+**Today's Progress**:
+
+Walking the Dom(document object model)
+
+Walking the dom referrs to the html page, so in javascript html page converts into a js object.
+DOM tree referrs to the html page where all the nodes are objects,
+There can be 3 main types of nodes in the DOM tree:
+
+1. Text nodes
+2. element nodes
+3. comment nodes
+
+```
+In an html page, <html> is at the root and <head> and <body> are its children, etc
+```
+
+A text node always its leaf of a tree. i.e., after text there is no node, its the last one.
+
+_Auto Correction_<br>
+browser auto correct the elements tags if developer put it mistakenly
+like as
+
+```
+<span>
+this type of errrors browser correct it
+</div>
+
+Inside browser it looks like
+<span>
+the auto corrected tag
+</span>
+```
+
+_Walking the dom_<br>
+
+```
+<html>
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    Hello World
+
+<script src="index.js"></script>
+</body>
+// if we do document.body --> it gives the whole body tag
+
+// if we do document.head --> it gives the head tag
+
+//if we do document.documentElement --> it gives the whole html tag
+
+</html>
+```
+
+This are the element nodes
+
+But if we do document.title --> it return String and its a text node.
+
+Note: document body sometimes null if the javascript written before the body tag
