@@ -781,3 +781,32 @@ Notes: Child nodes are not an array its a nodelist, to make it a array use follo
 ```
 Array.from(childNodes);
 ```
+
+## Vid 32: 11/01/2023
+
+**Today's Progress**:
+
+Parents & siblings of an element.
+
+In common human life siblings means childrens that are from the same parents.
+
+Notes on DOM collection<br>
+
+1. they are read-only
+2. They are live, ele.childNodes variable (referrence) will automatically update if childNodes of element is changed.
+3. They are iterable using for...of...loop.
+
+_Siblings and the Parents_<br>
+siblings are the nodes that are children of the same parent.
+
+```
+For ex:- <head> & <body > are the siblings. siblings have same parents.
+```
+
+body is said to be the next or right sibling of head, and head said to be left sibling of body.
+
+Nextsibling is in nextSibling property, and previous one is previousSibling
+The parent is available as parentNode.
+
+alert(document.documentElement.parentNode);
+alert(document.documentElement.parentElement);
