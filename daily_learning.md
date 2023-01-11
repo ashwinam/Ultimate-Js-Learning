@@ -810,3 +810,19 @@ The parent is available as parentNode.
 
 alert(document.documentElement.parentNode);
 alert(document.documentElement.parentElement);
+
+## Vid 33: 11/01/2023
+
+**Today's Progress**:
+
+Element of navigation
+
+When we do firstChild it return text node but to avoid this and getting first element just use this propertise
+firstElementChild
+
+Following are the properties
+
+1. document.previousElementSibling // previous sibling which is an element
+2. document.nextElementSibling // next sibling which are element
+3. document.firstElementChild
+4. document.lastElementChild
