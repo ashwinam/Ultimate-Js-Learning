@@ -826,3 +826,13 @@ Following are the properties
 2. document.nextElementSibling // next sibling which are element
 3. document.firstElementChild
 4. document.lastElementChild
+
+## Vid 34: 12/01/2023
+
+**Today's Progress**:
+
+Table navigation
+
+Certain dom elements may provide additional dom elements specific to their type for convenience table elements supports the following properties:
+
+All properties inside --> table navigation/script.js
