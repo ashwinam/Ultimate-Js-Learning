@@ -836,3 +836,35 @@ Table navigation
 Certain dom elements may provide additional dom elements specific to their type for convenience table elements supports the following properties:
 
 All properties inside --> table navigation/script.js
+
+## Vid 34: 13/01/2023
+
+**Today's Progress**:
+
+Searching the DOM
+
+DOM navigation properties are helpful when the elements are close to each other, we have some more methods to search the DOM
+
+1. document.getElementById
+<p>This method helps to find out element by given id</p>
+
+```
+let span = document.getElemenyById('span')
+span.style.color = 'red'
+```
+
+2. document.querySelectorAll
+   return all elements inside an element matching the given css
+
+3. document.querySelector
+   return the first element for the given css selector, an efficient version of
+   document.querySelectorAll(css)[0]
+
+4. document.getElementsByTagName
+   return elements with a given tag name
+
+5. document.getElementsByClassName
+   return element that have the given css class
+
+6. docuement.getElementsByName
+   searches elements by the name attribute.
