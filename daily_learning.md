@@ -837,7 +837,7 @@ Certain dom elements may provide additional dom elements specific to their type 
 
 All properties inside --> table navigation/script.js
 
-## Vid 34: 13/01/2023
+## Vid 35: 13/01/2023
 
 **Today's Progress**:
 
@@ -868,3 +868,15 @@ span.style.color = 'red'
 
 6. docuement.getElementsByName
    searches elements by the name attribute.
+
+## Vid 36: 13/01/2023
+
+**Today's Progress**:
+
+Matches, closest & contains methods
+
+1. elem.matches(css) --> To check if element matches the given css selector
+
+2. elem.closest(css) --> to look for the nearest ancestors that matches the given css selector, the element itself is also checked.
+
+3. elemA.contains(elemB) --> return true if elemB is inside elemA (a descendent of elemA) or when elemA===elemB
