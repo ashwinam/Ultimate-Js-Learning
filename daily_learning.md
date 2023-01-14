@@ -880,3 +880,9 @@ Matches, closest & contains methods
 2. elem.closest(css) --> to look for the nearest ancestors that matches the given css selector, the element itself is also checked.
 
 3. elemA.contains(elemB) --> return true if elemB is inside elemA (a descendent of elemA) or when elemA===elemB
+
+## Vid 37: 14/01/2023
+
+**Today's Progress**:
+
+Chapter 07: parctice set.
