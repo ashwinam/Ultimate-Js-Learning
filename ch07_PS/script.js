@@ -34,5 +34,15 @@ allLi = Array.from(allLi)
 // Q5: which of the following is used to look for the farthest ancestor that matches a given css selector
 
 /* a) matches b)closest c) contains d)None 
-Answer is b closest 
+Answer is d because the closest give the nearest ancestor but not farthest 
 */
+
+// Harry bhai solution is down below
+
+document.getElementsByTagName("nav")[0].firstElementChild.style.color = "red"
+document.getElementsByTagName("nav")[0].firstElementChild.style.color = "green"
+document.getElementsByTagName("nav")[0].lastElementChild.style.color = "green"
+
+Array.from(document.getElementsByTagName("li")).forEach((element) =>{
+  element.style.background = "cyan";
+})
