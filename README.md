@@ -1,3 +1,5 @@
+# _Ultimate JavaScript Learning_
+
 ## Vid 0: 11/12/2022
 
 **Today's Progress**:
