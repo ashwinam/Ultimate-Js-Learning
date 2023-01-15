@@ -886,3 +886,9 @@ Matches, closest & contains methods
 **Today's Progress**:
 
 Chapter 07: parctice set.
+
+## Vid 38: 15/01/2023
+
+**Today's Progress**:
+
+Exercise 03: Tell me a Joke
