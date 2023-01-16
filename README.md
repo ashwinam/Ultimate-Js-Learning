@@ -9,13 +9,13 @@
 - How to execute javascript
 
 **Introduction to programming:**
-<br>Programming is nothing but a conversation with computer or just giving the instructions to computer in the proper format that coomputer can understand and he is doing what you are telling to do.
+<br>Programming is nothing but a conversation with computer or just giving the instructions to computer in the proper format that computer can understand and he is doing what you are telling to do.
 
 What kind of Things the computer can able to to?
-<br> In the initial time computer are meant for f=doing mathematical calculations. But now a days computer are good at sharing information to the across the globe like videos, messages, knowledge etc.
+<br> In the initial time computer are meant for doing mathematical calculations. But now a days computer are good at sharing information to the across the globe like videos, messages, knowledge etc.
 
 **EcmaScript**
-<br>EcmaScript is a standarad for the javascript that helps to run on any browsers,
+<br>EcmaScript is a standard for the javascript that helps to run on any browsers,
 So javascript and EcmaScript are used interchangeably.
 
 **How to execute JavaScript?**
@@ -28,19 +28,19 @@ So javascript and EcmaScript are used interchangeably.
 
 **Today's Progress**:
 
-- What are variables?
-  <br>Variables is just a container that store the referrence of a value, means the value stored in memory and the address will store in that variable container.
+**What are variables?**
+<br>Variables is just a container that store the referrence of a value, means the value stored in memory and the address will store in that variable container.
 
-  The value of the variable can be changed during the runtime its called dynamically typed language and other is statically typed language once the variable initialized it cant be changed.
+The value of the variable can be changed during the runtime its called dynamically typed language and other is statically typed language once the variable initialized it cant be changed.
 
-  ```
-  let a = 7;
-  ----------
-  7 is a literal
-  a is a identifier
-  = is a assignment operator
-  combining its called decalring variable.
-  ```
+```
+let a = 7;
+----------
+7 is a literal
+a is a identifier
+= is a assignment operator
+combining its called declaring variable.
+```
 
 - Ruled for choosing variable names:<br>
   - letters, digits, underscores and $dollar sign allowed
@@ -118,7 +118,7 @@ Practice set of chapter 1
 
 **Today's Progress**:
 
-### Operators and expressions
+### Operators and expressions:
 
 A fragment of code that produces a value is called an expressions.
 Every value that is written on js is an expression.

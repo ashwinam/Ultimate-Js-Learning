@@ -3,12 +3,14 @@
 let str = 'ashwin'
 let num = 65
 
-console.log(str + num)
+console.log(str + num) // it will concatinate string with number
 
 
 //Q2. Use typeof operator to find the datatype of the string in last question
 
 console.log(typeof (str + num))
+
+// Q3. create a const object in a javascript can you change it to hold a number later.
 
 const obj = {
     name:'ashwin',
