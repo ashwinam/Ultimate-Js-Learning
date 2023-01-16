@@ -889,8 +889,14 @@ Matches, closest & contains methods
 
 Chapter 07: parctice set.
 
-## Vid 38: 15/01/2023
+## Vid 39: 15/01/2023
 
 **Today's Progress**:
 
 Exercise 03: Tell me a Joke
+
+## Vid 40: 15/01/2023
+
+**Today's Progress**:
+
+innerHtml, outerHtml and other properties
