@@ -895,8 +895,14 @@ Chapter 07: parctice set.
 
 Exercise 03: Tell me a Joke
 
-## Vid 40: 15/01/2023
+## Vid 40: 16/01/2023
 
 **Today's Progress**:
 
 innerHtml, outerHtml and other properties
+
+## Vid 41: 17/01/2023
+
+**Today's Progress**:
+
+Html attributes and their methods
