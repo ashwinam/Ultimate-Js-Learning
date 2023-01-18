@@ -906,3 +906,9 @@ innerHtml, outerHtml and other properties
 **Today's Progress**:
 
 Html attributes and their methods
+
+## Vid 42: 17/01/2023
+
+**Today's Progress**:
+
+Html insertion methods
