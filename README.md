@@ -907,8 +907,14 @@ innerHtml, outerHtml and other properties
 
 Html attributes and their methods
 
-## Vid 42: 17/01/2023
+## Vid 42: 18/01/2023
 
 **Today's Progress**:
 
 Html insertion methods
+
+## Vid 43: 19/01/2023
+
+**Today's Progress**:
+
+insertAdjacentHtml, insertAdjacentElement, insertAdjacentText
