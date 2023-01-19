@@ -918,3 +918,9 @@ Html insertion methods
 **Today's Progress**:
 
 insertAdjacentHtml, insertAdjacentElement, insertAdjacentText
+
+## Vid 44: 19/01/2023
+
+**Today's Progress**:
+
+ClassName and classList

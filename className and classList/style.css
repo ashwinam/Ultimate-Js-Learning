@@ -1,0 +1,18 @@
+* {
+    height: 100%;
+    width: 100%;
+}
+
+.skyBlue {
+    background: skyblue;
+    color: white;
+}
+
+.brown{
+    background: brown;
+    color: white;
+}
+
+.textDark {
+    color: black;
+}
