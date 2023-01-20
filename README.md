@@ -924,3 +924,13 @@ insertAdjacentHtml, insertAdjacentElement, insertAdjacentText
 **Today's Progress**:
 
 ClassName and classList
+
+## Vid 45: 20/01/2023
+
+**Today's Progress**:
+
+SetTimeout and setInterval
+
+1. setTimout is used when you want to the function is one more time its called after a certain amount of time.
+
+2.setInterval is used when you want the function need to be called after every set of times
