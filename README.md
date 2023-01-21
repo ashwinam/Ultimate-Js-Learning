@@ -934,3 +934,40 @@ SetTimeout and setInterval
 1. setTimout is used when you want to the function is one more time its called after a certain amount of time.
 
 2.setInterval is used when you want the function need to be called after every set of times
+
+## Vid 45: 20/01/2023
+
+**Today's Progress**:
+
+Browser Events
+
+What are browser events?
+What ever happening on the browser like clicking mouse, moving mouse, button pressing and much more are called events happening means something will happen (action).
+
+Its like signals that we are capturing.
+
+Some Important dom events are:
+
+1. Mouse events: click, contextMenu (right click), mouseover/mouseout, mousedown, mouseup and mouse move
+
+2. Keyboard Events: keydown and keyup
+
+3. form element events: submit, focus etc.
+
+4. Document events: DOMcontent loaded
+
+### Handling events
+
+Events can be handled through html attributes
+
+<input value="" onclick="alert('hey')" type='button'>
+
+Here onclick can be another js function
+
+Events can also be handled through the onclick property
+
+elem.onclick= function() {
+//do something
+}
+
+Note: adding a handler with javascript overwrites the existing handler.
