@@ -971,3 +971,9 @@ elem.onclick= function() {
 }
 
 Note: adding a handler with javascript overwrites the existing handler.
+
+## Vid 46: 22/01/2023
+
+**Today's Progress**:
+
+Handling Browser Events
