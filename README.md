@@ -989,3 +989,9 @@ Ch 08: Practise set
 **Today's Progress**:
 
 Exercise 3 solution
+
+## Vid 50: 22/01/2023
+
+**Today's Progress**:
+
+Exercise 04 | clock

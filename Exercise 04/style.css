@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background: rgb(194, 218, 226);
+}
+
+div > h3{
+    color: rgb(39, 49, 49);
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 200px;
+    background: rgb(194, 218, 226);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3),
+                -2px -2px 10px rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+  }
+  
+  #time {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+  }
+  
