@@ -935,7 +935,7 @@ SetTimeout and setInterval
 
 2.setInterval is used when you want the function need to be called after every set of times
 
-## Vid 45: 21/01/2023
+## Vid 46: 21/01/2023
 
 **Today's Progress**:
 
@@ -972,8 +972,14 @@ elem.onclick= function() {
 
 Note: adding a handler with javascript overwrites the existing handler.
 
-## Vid 46: 22/01/2023
+## Vid 47: 22/01/2023
 
 **Today's Progress**:
 
 Handling Browser Events
+
+## Vid 48: 22/01/2023
+
+**Today's Progress**:
+
+Ch 08: Practise set

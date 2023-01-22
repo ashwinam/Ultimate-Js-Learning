@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.bulb-on{
+    height: 50px;
+    width: 50px;
+    background: skyblue;
+}
+
+.bulb-off{
+    height: 50px;
+    width: 50px;
+}
