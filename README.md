@@ -935,7 +935,7 @@ SetTimeout and setInterval
 
 2.setInterval is used when you want the function need to be called after every set of times
 
-## Vid 45: 20/01/2023
+## Vid 45: 21/01/2023
 
 **Today's Progress**:
 
