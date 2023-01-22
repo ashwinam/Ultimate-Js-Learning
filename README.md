@@ -983,3 +983,9 @@ Handling Browser Events
 **Today's Progress**:
 
 Ch 08: Practise set
+
+## Vid 49: 22/01/2023
+
+**Today's Progress**:
+
+Exercise 3 solution
