@@ -995,3 +995,5 @@ Exercise 3 solution
 **Today's Progress**:
 
 Exercise 04 | clock
+
+Due to health we continue tomorrow.
