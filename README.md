@@ -1003,9 +1003,11 @@ Due to health we continue tomorrow.
 ## Vid 51: 24/01/2023
 
 **Today's Progress**:
-Callbacks
 
 Asynchronous and synchronous
 Synchronous means we assign some set of instructions and it will be execute line by line
 
 Asynchronous Means we assign instruction but we say i dont need this instructions to be executed it will executed later
+
+Callback Function
+A callback function is just a normal function that we pass into another function as an argument which is then invoked inside the outer function to complete an action
