@@ -1011,3 +1011,6 @@ Asynchronous Means we assign instruction but we say i dont need this instruction
 
 Callback Function
 A callback function is just a normal function that we pass into another function as an argument which is then invoked inside the outer function to complete an action
+
+Handling Errors
+we can handly callback errrors by supplying error arguments
