@@ -996,4 +996,16 @@ Exercise 3 solution
 
 Exercise 04 | clock
 
+### 23/01/2023
+
 Due to health we continue tomorrow.
+
+## Vid 51: 24/01/2023
+
+**Today's Progress**:
+Callbacks
+
+Asynchronous and synchronous
+Synchronous means we assign some set of instructions and it will be execute line by line
+
+Asynchronous Means we assign instruction but we say i dont need this instructions to be executed it will executed later
