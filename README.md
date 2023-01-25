@@ -1014,3 +1014,34 @@ A callback function is just a normal function that we pass into another function
 
 Handling Errors
 we can handly callback errrors by supplying error arguments
+
+## Vid 52: 25/01/2023
+
+**Today's Progress**:
+callback hell and pyramid of doom
+
+_Pyramid Of Doom_
+when we have callback inside callbacks, the code gets difficult to manage.
+
+```
+This is called pyramid of doom
+loadscript(...{
+   loadscript(...{
+      loadscript(...{
+         loadscript(...{
+            loadscript(...{
+               loadscript(...{
+                  loadscript(...{
+                     loadscript(...{
+                        // Do somethis
+                     })
+                  })
+               })
+            })
+         })
+      })
+   })
+})
+```
+
+As calls become more nested, the code becomes deeper and increasingly more difficult to manage, especially if we have real code instead of ...This is sometimes called 'callback hell' or 'pyramid of doom'
