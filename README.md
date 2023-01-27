@@ -1045,3 +1045,24 @@ loadscript(...{
 ```
 
 As calls become more nested, the code becomes deeper and increasingly more difficult to manage, especially if we have real code instead of ...This is sometimes called 'callback hell' or 'pyramid of doom'
+
+## Vid 53: 27/01/2023
+
+**Today's Progress**:
+
+Introduction to promise
+
+The solution to the callback hell is promise. A promise is a "promise of code execution". The code either executes or fails, in both the cases the subscriber will be notified .
+
+The syntax for the promise:
+
+```
+let promise = new Promise(function(resolve, reject){
+   //code for execution
+})
+```
+
+The resolve and reject are two callbacks that are provided by javascript itself. they are called like this.
+
+1.resolve(value) -> if the job is finished successfully
+2.reject(error) -> if the job fails
