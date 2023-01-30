@@ -1066,3 +1066,9 @@ The resolve and reject are two callbacks that are provided by javascript itself.
 
 1.resolve(value) -> if the job is finished successfully
 2.reject(error) -> if the job fails
+
+## Vid 54: 30/01/2023
+
+**Today's Progress**:
+
+Then_catch with promises.
