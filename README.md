@@ -1072,3 +1072,9 @@ The resolve and reject are two callbacks that are provided by javascript itself.
 **Today's Progress**:
 
 Then_catch with promises.
+
+## Vid 55: 02/02/2023
+
+**Today's Progress**:
+
+promise chaining
